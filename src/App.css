@@ -4,12 +4,13 @@
 }
 
 .cta-button {
-    padding: 3px;
-    border: solid #0e06f4;
+    padding: 4px;
+    border: solid #02ddf5;
+;
     border-width: thick;
     border-width: 0 4px 1px 1px;
-    border-radius: 3px;
-    min-width: 6px;
+    border-radius: 6px;
+    min-width: 10px;
     color: rgb(253, 253, 253);
     font-size: 8px;
     cursor: pointer;
@@ -22,6 +23,10 @@
     right: 3px;
     top: 3px;
     font-size: 20px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    
 }
 
 .mint-nft-button {
